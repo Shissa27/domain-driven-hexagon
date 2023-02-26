@@ -2,6 +2,7 @@
 Some text for branch1
 New text1
 New text2
+New text3
 **Check out my other repositories**:
 
 - [Backend best practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development.
